@@ -67,7 +67,7 @@ Machine Learning: TensorFlow, Keras, Scikit-learn
 Data Handling and Analysis: Pandas, NumPy
 Visualization: Matplotlib, Seaborn, Altair
 Frontend: HTML, CSS, JavaScript
-Additional Libraries: Alpha Vantage, Requests, Tweepy (if applicable)
+Additional Libraries: Alpha Vantage, Requests, Tweepy 
 
 ## Contributing
 Contributions are welcome! Please follow these steps to contribute:
