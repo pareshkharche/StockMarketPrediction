@@ -199,7 +199,7 @@ def insertintotable():
             print("####arima_predi##########################################################################")
             print("Tomorrow's",quote," Closing Price Prediction by ARIMA:",tomorrow_ar )
             print("ARIMA RMSE:",error_arima)
-            print("##############################################################################")
+            print("###############################################################################")
             print()
             prices = {"Date": date, "History": price, "Forecast": arima_predi}
             
