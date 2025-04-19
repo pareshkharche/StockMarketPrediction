@@ -57,7 +57,7 @@ Our model achieves an accuracy of up to 95% in predicting stock prices. The resu
 
 ![a14](https://github.com/pareshkharche/StockMarketPrediction/assets/80632983/6990d43b-b94f-4724-ba73-1169c6f5e8cd)
 
-![5](https://github.com/pareshkharche/StockMarketPrediction/assets/80632983/0189031f-f323-43c3-9a2f-e810d9a98ae2)
+
 
 
 ## Technologies Used
